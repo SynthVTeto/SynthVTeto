@@ -46,7 +46,7 @@ do not interact ‎ ‎ ‎ ‎- ‎ ‎ i block freely, if you are too weird fo
 </div>
 
 ---
-#### —‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎,‎‎ ‎ ‎  ‎‎ ‎<img width="20" height="20" alt="3a3e4335" src="https://github.com/user-attachments/assets/22e3022c-abfd-4853-9822-a1b2c23ad941" />‎ ‎‎   ‎ [atabook ‗](https://petten.atabook.org)‎ ‎‎ ‎. ‎ ‎‎ <img width="20" height="20" alt="9494afc0" src="https://github.com/user-attachments/assets/e4583890-b387-4cb2-a336-861e31ff4f3f" />‎ [strawpage „](https://teofon.straw.page)‎ ‎‎ ‎. ‎ ‎‎<img width="20" height="20" alt="ab494a1c" src="https://github.com/user-attachments/assets/355e458b-e0b4-4941-83a4-876d4d98551f" />‎ ‎ [drawboard ⏖](https://magma.com/d/p6L9Na7uHq) `will check often` ‎‎ ‎. ‎ ‎‎ . ♪ 
+#### —‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎,‎‎ ‎ ‎  ‎‎ ‎<img width="20" height="20" alt="3a3e4335" src="https://github.com/user-attachments/assets/22e3022c-abfd-4853-9822-a1b2c23ad941" />‎ ‎‎   ‎ [atabook ‗](https://petten.atabook.org)‎ ‎‎ ‎. ‎ ‎‎ <img width="20" height="20" alt="9494afc0" src="https://github.com/user-attachments/assets/e4583890-b387-4cb2-a336-861e31ff4f3f" />‎ [strawpage „](https://teofon.straw.page)‎ ‎‎ ‎. ‎ ‎‎<img width="20" height="20" alt="ab494a1c" src="https://github.com/user-attachments/assets/355e458b-e0b4-4941-83a4-876d4d98551f" />‎ ‎ [pronounscc ⏖](https://pronouns.cc/@pettenke)  ‎‎ ‎. ‎ ‎‎ . ♪ 
  ‎ 
 
 <div align="center">
