@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-<img width="400" height="25" alt="3e83fb50" src="https://github.com/user-attachments/assets/dfad043c-6648-4242-a0d9-e1d16e6810d2" />
+</a> <a href=https://petten.atabook.org/> <img src="https://file.garden/an8pwtZA6SjkGRPA/ata.png" width="120"/></img></a> </a> <a href=https://teofon.straw.page/> <img src="https://file.garden/an8pwtZA6SjkGRPA/straw" width="150"/></img></a> </a> <a href=https://pronouns.cc/@pettenke> <img src="https://file.garden/an8pwtZA6SjkGRPA/pronouncc" width="140"/></img></a>
 </div>
 
   
