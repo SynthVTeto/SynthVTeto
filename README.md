@@ -3,10 +3,12 @@
 <div align="center">
 <img width="200" height="280" alt="h" src="https://github.com/user-attachments/assets/77e6076b-1156-4629-bd05-9f3148063d27" />
 </div>
-<!-- dude this wont even load fast -->
+<!-- dude this wont even load fast or does it now IDK -->
 <div align="center">
 <img width="450" height="150" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=SynthVTeto&color=c96c80&abbreviated=true)
 
 ---
 
