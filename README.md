@@ -8,7 +8,7 @@
 <img width="450" height="150" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
 </div>
 
-<img width="19" height="19" alt="ee1" src="https://github.com/user-attachments/assets/fa642b9d-abcd-478c-a29d-75427a44089e" /> ![](https://komarev.com/ghpvc/?username=SynthVTeto&color=c96c80&abbreviated=true&label=♪+.+
+<img width="19" height="19" alt="ee1" src="https://github.com/user-attachments/assets/fa642b9d-abcd-478c-a29d-75427a44089e" /> ㅤㅤ![](https://komarev.com/ghpvc/?username=SynthVTeto&color=c96c80&abbreviated=true&label=♪+.+
 )
 
 ---
