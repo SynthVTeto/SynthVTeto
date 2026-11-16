@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<img width="500" height="200" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
+<img width="450" height="150" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
 </div>
 
 ---
