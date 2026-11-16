@@ -1,9 +1,9 @@
 <!-- im nto a professional at this -->
 
 <div align="center">
-<img src="https://file.garden/an8pwtZA6SjkGRPA/h.gif" width="800" />
+<img width="800" height="1138" alt="h" src="https://github.com/user-attachments/assets/77e6076b-1156-4629-bd05-9f3148063d27" />
 </div>
-
+<!-- dude this wont even load fast -->
 <div align="center">
 <img width="450" height="150" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
 </div>
