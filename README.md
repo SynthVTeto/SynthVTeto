@@ -25,5 +25,7 @@ what
 <summary>${{\color{#DA4D75}\texttt{stamps and stuff that ill just put later}}}$</summary>
 e
 </details>
- bro wip idkwhat am idoing
+
+> [!NOTE]
+> bro idk this is a wip
 <!---I got a 红包 🧧🧧🧧👅👅👅 新年快乐紅包拿來😭😳🧧🧧🧧👅🧧👅🧧💯💯💯🧧🧧🧧🧧🧧🧧🧧新年快乐🧧💔💯💯💯💯😳😭😭👅🧧🧧🧧🧧🧧🧧💰💰💸💸💵💶💷💶💵💸💰🧧🧧🧧🧧🧧🧧🧧💯🧧🧧🧧🧧💯💯💸💸💰💰💰💰💵💶💶❤️💷💷💔😳👀👀🤤💙😅❤️😭👅💯💯😳😳👀💔💵🧧🧧😳😳💸💯💰💰💶💶💵红包🧧🧧😳💶💔💔💯💯😳💶💵💵💵-->
