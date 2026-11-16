@@ -1,7 +1,7 @@
 <!-- im nto a professional at this -->
 
 <div align="center">
-<img width="200" height="280" alt="h" src="https://file.garden/an8pwtZA6SjkGRPA/h.gif" />
+<img src="https://file.garden/an8pwtZA6SjkGRPA/h.gif" width="800" />
 </div>
 
 <div align="center">
