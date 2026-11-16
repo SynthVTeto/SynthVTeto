@@ -14,7 +14,13 @@
 </a> <a href=https://petten.atabook.org/> <img src="https://file.garden/an8pwtZA6SjkGRPA/ata.png" width="120"/></img></a> </a> <a href=https://teofon.straw.page/> <img src="https://file.garden/an8pwtZA6SjkGRPA/straw" width="150"/></img></a> </a> <a href=https://pronouns.cc/@pettenke> <img src="https://file.garden/an8pwtZA6SjkGRPA/pronouncc" width="140"/></img></a>
 </div>
 
-  
+<div align="right">
+<details>
+<summary>${{\color{#B55656}\texttt{higuys this is a test}}}$</summary>
+what
+</details>
+</div>
+
 <details>
 <summary>${{\color{#70B480}\texttt{stamps and stuff that ill just put later}}}$</summary>
 e
