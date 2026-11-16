@@ -16,13 +16,13 @@
 
 <div align="right">
 <details>
-<summary>${{\color{#B55656}\texttt{higuys this is a test}}}$</summary>
+<summary>${{\color{#DB6377}\texttt{info ‸ㅤㅤㅤㅤ}}}$</summary>
 what
 </details>
 </div>
 
 <details>
-<summary>${{\color{#70B480}\texttt{stamps and stuff that ill just put later}}}$</summary>
+<summary>${{\color{#DA4D75}\texttt{stamps and stuff that ill just put later}}}$</summary>
 e
 </details>
  bro wip idkwhat am idoing
