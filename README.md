@@ -19,7 +19,8 @@
 
 <div align="right">
 <details>
-<summary>${{\color{#DB6377}\texttt{info ‸ㅤㅤㅤㅤ}}}$</summary>
+<summary>${{\color{#DB6377}\texttt{info ‸ㅤㅤㅤㅤ<img width="16" height="16" alt="d94a9b47" src="https://github.com/user-attachments/assets/70cb08bd-73f1-4329-8ab0-dc7c01f95f9c" />
+}}}$</summary>
 what
 </details>
 </div>
