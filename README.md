@@ -3,7 +3,7 @@
 <div align="center">
 <img width="200" height="280" alt="h" src="https://github.com/user-attachments/assets/77e6076b-1156-4629-bd05-9f3148063d27" />
 </div>
-<!-- dude this wont even load fast or does it now IDK -->
+
 <div align="center">
 <img width="450" height="150" alt="waaww" src="https://github.com/user-attachments/assets/116352e9-2f93-4457-b49b-36bcc9687dd6" />
 </div>
@@ -17,10 +17,30 @@
 </a> <a href=https://petten.atabook.org/> <img src="https://file.garden/an8pwtZA6SjkGRPA/ata.png" width="120"/></img></a> </a> <a href=https://teofon.straw.page/> <img src="https://file.garden/an8pwtZA6SjkGRPA/straw" width="150"/></img></a> </a> <a href=https://pronouns.cc/@pettenke> <img src="https://file.garden/an8pwtZA6SjkGRPA/pronouncc" width="140"/></img></a>
 </div>
 
+ㅤ
 <div align="right">
 <details>
-<summary>${{\color{#DB6377}\texttt{info ‸ㅤㅤ}}}$<img width="16" src="https://github.com/user-attachments/assets/70cb08bd-73f1-4329-8ab0-dc7c01f95f9c" /></summary>
-what
+<summary>${{\color{#DB6377}\texttt{info ‸ㅤㅤ}}}$<img width="16" src="https://github.com/user-attachments/assets/70cb08bd-73f1-4329-8ab0-dc7c01f95f9c" /></summary> 
+  
+. ㅤcall me as `Teo/Petten` ; en/hu .
+  
+. ㅤ<sub>biggest liamplecak kin.. </sub>
+
+. ㅤmight be nervous at first to interact , though if time passes by ill be more comfortable
+
+. *I am a minor!*
+</details>
+</div>
+
+<div align="left">
+<details>
+<summary>${{\color{#DB6377}\texttt{ints, dnis ‸ㅤㅤ}}}$<img width="16" src="https://github.com/user-attachments/assets/38fb22e9-53ea-45bf-b5e1-283982eb3862" />
+" /></summary> 
+  
+| interact. . .  | do not interact. . . |
+| ------------- | ------------- |
+| vocaloid, hfjone, blocktales, any1 that isnt in the dni  | free-block, just dont be weird .  |
+
 </details>
 </div>
 
