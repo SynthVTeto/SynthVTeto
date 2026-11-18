@@ -34,8 +34,7 @@
 
 <div align="left">
 <details>
-<summary>${{\color{#DB6377}\texttt{ints, dnis ‸ㅤㅤ}}}$<img width="16" src="https://github.com/user-attachments/assets/38fb22e9-53ea-45bf-b5e1-283982eb3862" />
-" /></summary> 
+<summary>${{\color{#DB6377}\texttt{ints, dnis ‸ㅤㅤ}}}$<img width="16" src="https://github.com/user-attachments/assets/38fb22e9-53ea-45bf-b5e1-283982eb3862" /></summary> 
   
 | interact. . .  | do not interact. . . |
 | ------------- | ------------- |
